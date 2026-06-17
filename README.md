@@ -1,35 +1,19 @@
-#  DSA and SQL Practice Journey
+ DSA & SQL Practice Journey
 
-Welcome to my learning repository!
+This repository contains my solutions, notes, and learning progress in Data Structures & Algorithms and SQL.
 
-This repository contains my hands-on practice, solutions, notes, and learning progress in:
+The goal is to improve problem-solving skills, strengthen database fundamentals, and prepare for technical interviews while continuing to grow as a .NET developer.
 
-- Data Structures & Algorithms (DSA) using C#
-- SQL and Database Concepts
-- Problem Solving
-- Interview Preparation
-- Software Development Fundamentals
+Tech Stack
 
----
+* C#
+* .NET
+* SQL Server
+* Git & GitHub
 
-## 👨‍💻 About Me
+ Repository Structure
 
-I am a Full Stack .NET Developer with experience in:
 
-- ASP.NET Core
-- .NET Core MVC
-- Blazor
-- SQL Server
-- REST APIs
-- C#
-
-Currently, I am focusing on strengthening my problem-solving skills, database knowledge, and software engineering fundamentals to become a better developer and prepare for technical interviews.
-
----
-
-## 📂 Repository Structure
-
-```text
 DSA-And-SQL-Practice
 │
 ├── DSA
@@ -53,93 +37,69 @@ DSA-And-SQL-Practice
 ├── Notes
 │
 └── README.md
-```
 
----
 
-## 🎯 Learning Goals
+Learning Focus
 
-### DSA
+ Data Structures & Algorithms
 
-- Arrays
-- Strings
-- Hash Tables
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Linked Lists
-- Stack & Queue
-- Trees
-- Problem Solving Patterns
+* Arrays
+* Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Linked List
+* Stack
+* Queue
+* Trees
 
-### SQL
+ SQL
 
-- Basic Queries
-- Joins
-- Subqueries
-- CTEs
-- Window Functions
-- Stored Procedures
-- Indexes
-- Query Optimization
+* Basic Queries
+* Joins
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+* Stored Procedures
+* Indexes
+* Query Optimization
 
----
+ Progress
 
-## 📈 Progress Tracker
+ DSA
 
-### DSA
+* [ ] Arrays
+* [ ] Strings
+* [ ] Hashing
+* [ ] Two Pointers
+* [ ] Sliding Window
+* [ ] Binary Search
+* [ ] Linked List
+* [ ] Stack
+* [ ] Queue
+* [ ] Trees
 
-- [ ] Arrays
-- [ ] Strings
-- [ ] Hashing
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Binary Search
-- [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-- [ ] Trees
+ SQL
 
-### SQL
+* [ ] Easy Problems
+* [ ] Medium Problems
+* [ ] Hard Problems
+* [ ] Indexing
+* [ ] Query Optimization
 
-- [ ] Easy Problems
-- [ ] Medium Problems
-- [ ] Hard Problems
-- [ ] Query Optimization
-- [ ] Indexing
+ Platforms
 
----
+* LeetCode
+* HackerRank
+* Code360
 
-## 🛠 Technologies Used
-
-- C#
-- .NET
-- SQL Server
-- Git
-- GitHub
-- LeetCode
-
----
-
-## 📚 Practice Platforms
-
-- LeetCode
-- HackerRank
-- Code360
-
----
-
-## ⭐ Purpose of this Repository
+ Purpose
 
 This repository serves as:
 
-- A personal learning journal
-- A collection of solved problems
-- An interview preparation resource
-- A record of continuous improvement
+* A collection of solved problems
+* A structured learning record
+* An interview preparation resource
+* A way to track long-term improvement
 
----
-
-### Consistency Over Perfection
-
-> Solve one problem every day and keep moving forward.
