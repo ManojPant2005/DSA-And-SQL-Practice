@@ -14,29 +14,7 @@ Tech Stack
  Repository Structure
 
 
-DSA-And-SQL-Practice
-│
-├── DSA
-│   ├── Arrays
-│   ├── Strings
-│   ├── Hashing
-│   ├── TwoPointers
-│   ├── SlidingWindow
-│   ├── BinarySearch
-│   ├── LinkedList
-│   ├── Stack
-│   ├── Queue
-│   └── Trees
-│
-├── SQL
-│   ├── Easy
-│   ├── Medium
-│   ├── Hard
-│   └── DatabaseScripts
-│
-├── Notes
-│
-└── README.md
+DSA-And-SQL-Practice │ ├── DSA │ ├── Arrays ├── Strings ├── Hashing │ ├── TwoPointers ├── SlidingWindow ├── BinarySearch │ ├── LinkedList ├── Stack ├── Queue │ └── Trees │ ├── SQL │ ├── Easy ├── Medium │ ├── Hard └── DatabaseScripts │ ├── Notes │ └── README.md
 
 
 Learning Focus
