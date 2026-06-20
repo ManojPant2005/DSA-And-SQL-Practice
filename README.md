@@ -1,4 +1,4 @@
- DSA & SQL Practice Journey
+ DSA & SQL Practices
 
 This repository contains my solutions, notes, and learning progress in Data Structures & Algorithms and SQL.
 
