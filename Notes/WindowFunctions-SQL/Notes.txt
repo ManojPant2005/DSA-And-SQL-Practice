@@ -8,3 +8,33 @@ SELECT DepartmentId, AVG(Salary)
 FROM Employees
 GROUP BY DepartmentId;
 
+
+| Function      | Purpose                  |
+| ------------- | ------------------------ |
+| ROW_NUMBER()  | Unique row numbering     |
+| RANK()        | Ranking with gaps        |
+| DENSE_RANK()  | Ranking without gaps     |
+| NTILE()       | Divide into groups       |
+| LEAD()        | Next row value           |
+| LAG()         | Previous row value       |
+| FIRST_VALUE() | First value in partition |
+| LAST_VALUE()  | Last value in partition  |
+| SUM() OVER()  | Running total            |
+| AVG() OVER()  | Average per partition    |
+| MIN() OVER()  | Minimum value            |
+| MAX() OVER()  | Maximum value            |
+
+
+**** Practice Order *****
+ROW_NUMBER()
+RANK()
+DENSE_RANK()
+LEAD()
+LAG()
+SUM() OVER()
+AVG() OVER()
+MIN() OVER()
+MAX() OVER()
+FIRST_VALUE()
+LAST_VALUE()
+Interview Questions
