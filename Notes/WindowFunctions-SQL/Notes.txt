@@ -1,0 +1,10 @@
+1. What is a Window Function?
+
+A Window Function performs calculations across a set of rows related to the current row without grouping the result into a single row.
+
+Difference Between GROUP BY and Window Function
+GROUP BY
+SELECT DepartmentId, AVG(Salary)
+FROM Employees
+GROUP BY DepartmentId;
+
