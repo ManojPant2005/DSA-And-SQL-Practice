@@ -11,7 +11,7 @@ Tech Stack
 * SQL Server
 * Git & GitHub
 
- Repository Structure
+ Repository Structure : Updated
 
 
 DSA-And-SQL-Practice │ ├── DSA │ ├── Arrays ├── Strings ├── Hashing │ ├── TwoPointers ├── SlidingWindow ├── BinarySearch │ ├── LinkedList ├── Stack ├── Queue │ └── Trees │ ├── SQL │ ├── Easy ├── Medium │ ├── Hard └── DatabaseScripts │ ├── Notes │ └── README.md
